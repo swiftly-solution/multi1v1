@@ -1,0 +1,159 @@
+{
+    "prefix": "[{lime}SWIFTLY{default}]",
+    "color": "00b869",
+    "guns_commands": [
+        "guns",
+        "weapons"
+    ],
+    "round_types": {
+        "knife": {
+            "display": "Knife Round",
+            "rifle": false,
+            "armor": 100,
+            "pistol": false,
+            "knife": true,
+            "grenades": {
+                "incendiary": false,
+                "flashbang": false,
+                "he": false,
+                "smoke": false,
+                "decoy": false
+            },
+            "zeus": false
+        },
+        "pistol": {
+            "display": "Pistol Round",
+            "rifle": false,
+            "armor": 100,
+            "pistol": true,
+            "knife": true,
+            "grenades": {
+                "incendiary": false,
+                "flashbang": false,
+                "he": false,
+                "smoke": false,
+                "decoy": false
+            },
+            "zeus": false
+        },
+        "normal": {
+            "display": "Normal Round",
+            "armor": 100,
+            "rifle": true,
+            "pistol": true,
+            "knife": true,
+            "grenades": {
+                "incendiary": false,
+                "flashbang": false,
+                "he": false,
+                "smoke": false,
+                "decoy": false,
+                "ta": false
+            },
+            "zeus": false
+        },
+        "awp": {
+            "display": "AWP Round",
+            "rifle": "weapon_awp",
+            "pistol": false,
+            "armor": 100,
+            "knife": true,
+            "grenades": {
+                "incendiary": false,
+                "flashbang": false,
+                "he": false,
+                "smoke": false,
+                "decoy": false
+            },
+            "zeus": false
+        },
+        "ssg": {
+            "display": "SSG08 Round",
+            "rifle": "weapon_ssg08",
+            "armor": 100,
+            "pistol": false,
+            "knife": true,
+            "grenades": {
+                "incendiary": false,
+                "flashbang": false,
+                "he": false,
+                "smoke": false,
+                "decoy": false
+            },
+            "zeus": false
+        }
+    },
+    "weapons": {
+        "rifles": {
+            "t": {
+                "weapon_ak47": "AK47",
+                "weapon_galilar": "Galil",
+                "weapon_m4a1": "M4A4",
+                "weapon_m4a1_silencer": "M4A1-S",
+                "weapon_famas": "Famas"
+            },
+            "ct": {
+                "weapon_m4a1": "M4A4",
+                "weapon_m4a1_silencer": "M4A1-S",
+                "weapon_famas": "Famas",
+                "weapon_ak47": "AK47",
+                "weapon_galilar": "Galil"
+            }
+        },
+        "pistols": {
+            "t": {
+                "weapon_glock": "Glock",
+                "weapon_p250": "P250",
+                "weapon_cz75a": "CZ75",
+                "weapon_tec9": "Tec-9",
+                "weapon_elite": "Dual Berettas",
+                "weapon_deagle": "Desert Eagle",
+                "weapon_revolver": "Revolver"
+            },
+            "ct": {
+                "weapon_hkp2000": "P2000",
+                "weapon_usp_silencer": "USP-S",
+                "weapon_fiveseven": "Five-Seven",
+                "weapon_p250": "P250",
+                "weapon_cz75a": "CZ75",
+                "weapon_elite": "Dual Berettas",
+                "weapon_deagle": "Desert Eagle",
+                "weapon_revolver": "Revolver"
+            }
+        }
+    },
+    "convars": {
+        "bot_quota": "0",
+        "mp_autoteambalance": "0",
+        "mp_ct_default_primary": "\"\"",
+        "mp_ct_default_secondary": "\"\"",
+        "mp_t_default_primary": "\"\"",
+        "mp_t_default_secondary": "\"\"",
+        "mp_halftime": "0",
+        "mp_join_grace_time": "0",
+        "mp_match_can_clinch": "0",
+        "mp_respawn_immunitytime": "0",
+        "mp_autokick": "0",
+        "mp_warmuptime": "0",
+        "mp_warmuptime_all_players_connected": "10",
+        "mp_warmup_pausetimer": "0",
+        "mp_maxmoney": "0",
+        "mp_teamcashawards": "0",
+        "mp_playercashawards": "0",
+        "sv_disable_radar": "1",
+        "sv_ignoregrenaderadio": "1",
+        "mp_freezetime": "3",
+        "mp_forcecamera": "0",
+        "mp_maxrounds": "0",
+        "mp_round_restart_delay": "2",
+        "sv_allow_votes": "0",
+        "mp_timelimit": "30",
+        "mp_win_panel_display_time": "5",
+        "sv_talk_enemy_dead": "1",
+        "sv_talk_enemy_living": "1",
+        "sv_deadtalk": "1",
+        "mp_roundtime": "0.30",
+        "mp_endwarmup_player_count": "1",
+        "mp_death_drop_healthshot": "false"
+    }
+}

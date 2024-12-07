@@ -1,0 +1,78 @@
+{
+    "menu.guns.title": {
+        "en": "Guns Menu",
+        "ro": "Meniu Arme"
+    },
+    "menu.guns.rifles": {
+        "en": "Rifle",
+        "ro": "Pușcă"
+    },
+    "menu.guns.pistols": {
+        "en": "Pistol",
+        "ro": "Pistol"
+    },
+    "menu.guns.rifles.title": {
+        "en": "Rifle Menu",
+        "ro": "Meniu Pușcă"
+    },
+    "menu.guns.pistols.title": {
+        "en": "Pistol Menu",
+        "ro": "Meniu Pistol"
+    },
+    "menu.round_preferences.title": {
+        "en": "Round Preferences",
+        "ro": "Preferință Runde"
+    },
+    "menu.ct": {
+        "en": "Counter-Terrorist",
+        "ro": "Contra-Teroriști"
+    },
+    "menu.t": {
+        "en": "Terrorist",
+        "ro": "Terorist"
+    },
+    "equip": {
+        "en": "You've succesfully equipped {green}{NAME}{default} for {green}{TEAM}{default}.",
+        "ro": "Ai echipat cu succes {green}{NAME}{default} pentru {green}{TEAM}{default}."
+    },
+    "unequip": {
+        "en": "You've succesfully unequipped {green}{NAME}{default} for {green}{TEAM}{default}.",
+        "ro": "Ai dezechipat cu succes {green}{NAME}{default} pentru {green}{TEAM}{default}."
+    },
+    "arenas_full": {
+        "en": "All the current arenas ({lime}{ARENA_COUNT}{default}) are currently {red}full{default}. Your position in queue is {lime}{QUEUE_POS}{default}.",
+        "ro": "Toate arenele disponibile ({lime}{ARENA_COUNT}{default}) sunt în acest moment {red}pline{default}. Poziția ta in queue este {lime}{QUEUE_POS}{default}."
+    },
+    "facing_off": {
+        "en": "You're facing off {lime}{NAME}{default}.",
+        "ro": "Te confrunți cu {lime}{NAME}{default}."
+    },
+    "no_opponent": {
+        "en": "You have {red}no opponent{default}.",
+        "ro": "Nu ai {red}niciun oponent{default}."
+    },
+    "needs_minimum_one_preference": {
+        "en": "You need to have at least {red}1 (one) preference{default} selected.",
+        "ro": "Trebuie să aveți minimum {red}1 (o) preferință{default} selectată."
+    },
+    "equip_rtype": {
+        "en": "You've succesfully activated {green}{NAME}{default}.",
+        "ro": "Ai activat cu succes {green}{NAME}{default}."
+    },
+    "unequip_rtype": {
+        "en": "You've succesfully deactivated {green}{NAME}{default}.",
+        "ro": "Ai dezactivat cu succes {green}{NAME}{default}."
+    },
+    "round_type": {
+        "en": "Current round type: {green}{NAME}{default}",
+        "ro": "Tipul curent de rundă: {green}{NAME}{default}"
+    },
+    "in_arena": {
+        "en": "You are in arena: {GREEN}{ARENA}",
+        "ro": "Esti in arena: {GREEN}{ARENA}"
+    },
+    "opponent_left": {
+        "en": "Your opponent left the server.",
+        "ro": "Oponentul tău a ieșit de pe server."
+    }
+}

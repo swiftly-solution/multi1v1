@@ -1,3 +1,5 @@
+// Credits to m3ntor (https://github.com/m3ntorsky)
+
 Queue = {}
 
 function Queue:new()
